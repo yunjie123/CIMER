@@ -1,2 +1,2 @@
-# mySelfRepository
-for study
+# ElliotRepository
+
